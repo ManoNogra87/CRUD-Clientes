@@ -1,6 +1,8 @@
-servidor:localhost
+mservidor:localhost
 usuario:root
-contraseña:AnyiPaola44
+contraseÃ±a:AnyiPaola44
+Motro DB: MySQL
+Las conexiones las realice utilizando MyDac
 
 CREATE TABLE `clientes` (
   `CLIENTE` int(11) NOT NULL,
